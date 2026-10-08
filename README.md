@@ -4,10 +4,27 @@ Bot qui trade un portefeuille **virtuel** (100 $ convertis en SOL) sur des
 **memecoins small-cap** via de **vraies quotes Jupiter** (lite-api.jup.ag).
 Aucune clé privée, aucun fonds réel.
 
+**Hébergement : GitHub Actions** (repo public, tick toutes les 5 min via
+`.github/workflows/tick.yml`). Chaque tick sauvegarde `state.json` et
+`trades.jsonl` dans le dépôt — c'est la mémoire du bot, et l'historique git
+fournit gratuitement la trace de chaque tick. Le service systemd local est
+désactivé pour éviter le double emploi.
+
 Comme les exécutions sont simulées sur des prix réels en temps réel, si un
 token rug, la quote de sortie s'effondre — le bot vit le rug comme en vrai
 (position « MORTE »), sans argent réel perdu. Seul biais flatteur connu : le
 sandwich/MEV n'existe pas en simulation.
+
+## Suivre le bot
+
+```bash
+./status.sh                        # état + P&L (récupère le dernier tick)
+gh run list -R aot11/jup-paper-bot # historique des ticks
+gh workflow run tick -R aot11/jup-paper-bot   # tick manuel
+```
+
+Ou depuis l'iPhone : app **GitHub** → dépôt `jup-paper-bot` → onglet Actions
+pour voir chaque tick, et `trades.jsonl`/`state.json` pour les trades.
 
 ## Stratégie momentum (active)
 
@@ -21,16 +38,17 @@ sandwich/MEV n'existe pas en simulation.
 - **Frais simulés** : frais de pool réels (dans la quote) + slippage 1 % +
   taker 10 bps + priority 0,0003 SOL + réseau. Volontairement pessimiste.
 
-## Commandes
+## Commandes locales (dans le dossier du bot)
 
 ```bash
-python3 bot.py status                       # positions + P&L vs hold-SOL
-python3 bot.py once                         # un tick manuel
-python3 bot.py reset                        # remise à zéro (100 $ en SOL)
-systemctl --user status jup-paper-bot       # état du service
-journalctl --user -u jup-paper-bot -f       # trades en direct
-systemctl --user stop jup-paper-bot         # arrêter
+./status.sh                     # état + P&L vs hold-SOL
+python3 bot.py once             # tick manuel local (déconseillé : voir ci-dessous)
+python3 bot.py reset            # remise à zéro — puis committer/pousser l'état
 ```
+
+⚠️ Ne pas faire tourner le bot localement ET sur GitHub en même temps : deux
+états divergeraient. Le `reset` local doit être suivi d'un
+`git commit state.json trades.jsonl && git push`.
 
 ## Fichiers
 
@@ -40,7 +58,10 @@ systemctl --user stop jup-paper-bot         # arrêter
 - `trades.jsonl` — journal des trades simulés (avec raison de sortie)
 - `bot.log` — journal d'exécution
 
-## Réglages utiles (config.json puis `systemctl --user restart jup-paper-bot`)
+## Réglages utiles (config.json)
+
+Modifier → `git commit config.json && git push` → le prochain tick applique.
+(Une exécution manuelle `gh workflow run tick` accélère la prise en compte.)
 
 - `"source": "organic"` (qualité) ou `"recent"` (tokens sortis il y a quelques
   minutes sur pump.fun — mode extrême, la plupart meurent).
