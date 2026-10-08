@@ -26,6 +26,25 @@ gh workflow run tick -R aot11/jup-paper-bot   # tick manuel
 Ou depuis l'iPhone : app **GitHub** → dépôt `jup-paper-bot` → onglet Actions
 pour voir chaque tick, et `trades.jsonl`/`state.json` pour les trades.
 
+## Rapport e-mail (workflow `email.yml`)
+
+Un mail à `t0avina@proton.me` toutes les heures de 08 h à 22 h (heure locale
+UTC+3) : état du portefeuille, P&L vs départ et vs hold-SOL, positions
+ouvertes, trades des dernières 24 h. Envoi via **Brevo** (gratuit, 300
+mails/jour).
+
+Mise en route (une fois, ~5 min) :
+
+1. Créer un compte gratuit sur [brevo.com](https://www.brevo.com) avec
+   `t0avina@proton.me` ; valider l'expéditeur (lien reçu par mail).
+2. Dans Brevo : ⚙️ → **SMTP & API** → générer une clé API (v3).
+3. Sur le PC, dans le dossier du bot : `./set-mail-key.sh` et coller la clé
+   (saisie masquée — elle devient un secret GitHub, jamais dans le code).
+4. Tester : `gh workflow run email -R aot11/jup-paper-bot` → le mail arrive.
+
+Sans clé configurée, le workflow réussit sans rien envoyer (log explicite,
+pas de notifications d'échec).
+
 ## Stratégie momentum (active)
 
 - **Univers** : top organique Jupiter 24 h, filtré : mcap < 10 M$, liquidité

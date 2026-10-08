@@ -1,0 +1,29 @@
+name: email
+# Rapport horaire par e-mail (Brevo) : état, P&L, trades 24 h.
+# 08h-22h heure locale du PC (EAT, UTC+3) = 05h-19h UTC.
+# Si l'heure locale change, ajuster : cron = heure_locale - 3.
+
+on:
+  schedule:
+    - cron: "0 5-19 * * *"
+  workflow_dispatch: {}   # bouton manuel pour tester l'envoi
+
+permissions:
+  contents: read
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Envoi du rapport
+        run: python report.py
+        env:
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          MAIL_TO: t0avina@proton.me
