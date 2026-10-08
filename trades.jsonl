@@ -8,3 +8,5 @@
 {"ts": "2026-10-08 13:41:24", "side": "SELL", "token": "SharkTank", "mint": "HaQdrXRUoxxk1qLFZJNrSyzWNjn16o1r1np5h6jipump", "out_sol": 0.092728, "cost_sol": 0.15, "pnl_sol": -0.057272, "reason": "stop-loss"}
 {"ts": "2026-10-08 13:41:24", "side": "SELL", "token": "swordcat", "mint": "5tCju6YNxHq5zrA6tGndr6F7TK42mpUFmeE31cSFpump", "out_sol": 0.234885, "cost_sol": 0.15, "pnl_sol": 0.084885, "reason": "take-profit"}
 {"ts": "2026-10-08 13:41:24", "side": "BUY", "token": "4206066", "mint": "Ca5VuKu5NyyFkixnewTnokmzXpmNuG8Mk5odwHJypRNq", "in_sol": 0.15, "tokens": 24121.871159}
+{"ts": "2026-10-08 17:59:49", "side": "SELL", "token": "CRAWL", "mint": "BXoHJddsWJLHtAopeiSbKUSELsu8hSFMs8baGMDkpump", "out_sol": 0.193873, "cost_sol": 0.15, "pnl_sol": 0.043873, "reason": "dur\u00e9e max"}
+{"ts": "2026-10-08 17:59:49", "side": "SELL", "token": "4206066", "mint": "Ca5VuKu5NyyFkixnewTnokmzXpmNuG8Mk5odwHJypRNq", "out_sol": 0.038973, "cost_sol": 0.15, "pnl_sol": -0.111027, "reason": "stop-loss"}
