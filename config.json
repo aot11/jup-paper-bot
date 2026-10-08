@@ -1,0 +1,28 @@
+{
+  "tick_seconds": 60,
+  "scan_interval_sec": 180,
+  "slippage_bps": 100,
+  "fee_bps": 10,
+  "priority_fee_sol": 0.0003,
+  "tx_fee_sol": 0.000005,
+  "initial_usdc": 100.0,
+
+  "source": "organic",
+  "params": {
+    "max_mcap_usd": 10000000,
+    "min_liquidity_usd": 50000,
+    "min_momentum_1h_pct": 4,
+    "max_momentum_1h_pct": 150,
+    "min_buys_1h": 50,
+    "max_price_impact_pct": 2.0,
+    "position_size_sol": 0.15,
+    "max_positions": 3,
+    "stop_loss_pct": -20,
+    "take_profit_pct": 40,
+    "trail_arm_pct": 15,
+    "trail_drop_pct": 10,
+    "max_hold_sec": 21600,
+    "cooldown_per_token_sec": 7200,
+    "dead_after_missing_ticks": 10
+  }
+}
