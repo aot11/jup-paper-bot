@@ -20,3 +20,4 @@
 {"ts": "2026-10-10 07:11:34", "side": "SELL", "token": "HeeHaw", "mint": "EEpng77ZPn9FbgbT4xsRjwuxNCcMBYq3HTwEscyTpump", "out_sol": 0.090697, "cost_sol": 0.15, "pnl_sol": -0.059303, "reason": "stop-loss"}
 {"ts": "2026-10-10 07:11:35", "side": "BUY", "token": "swordcat", "mint": "5tCju6YNxHq5zrA6tGndr6F7TK42mpUFmeE31cSFpump", "in_sol": 0.15, "tokens": 4873.489276}
 {"ts": "2026-10-10 13:42:09", "side": "SELL", "token": "swordcat", "mint": "5tCju6YNxHq5zrA6tGndr6F7TK42mpUFmeE31cSFpump", "out_sol": 0.142732, "cost_sol": 0.15, "pnl_sol": -0.007268, "reason": "dur\u00e9e max"}
+{"ts": "2026-10-10 21:33:41", "side": "BUY", "token": "HeeHaw", "mint": "EEpng77ZPn9FbgbT4xsRjwuxNCcMBYq3HTwEscyTpump", "in_sol": 0.15, "tokens": 14400.488326}
