@@ -17,3 +17,5 @@
 {"ts": "2026-10-09 21:35:55", "side": "BUY", "token": "BORDR", "mint": "6Mix12LiHrQFojaQEnfPUC65Qkwd6X4Y5Qg93oFbordr", "in_sol": 0.15, "tokens": 11594.849328}
 {"ts": "2026-10-10 01:13:21", "side": "SELL", "token": "BORDR", "mint": "6Mix12LiHrQFojaQEnfPUC65Qkwd6X4Y5Qg93oFbordr", "out_sol": 0.289568, "cost_sol": 0.15, "pnl_sol": 0.139568, "reason": "take-profit"}
 {"ts": "2026-10-10 01:13:22", "side": "BUY", "token": "HeeHaw", "mint": "EEpng77ZPn9FbgbT4xsRjwuxNCcMBYq3HTwEscyTpump", "in_sol": 0.15, "tokens": 8026.632816}
+{"ts": "2026-10-10 07:11:34", "side": "SELL", "token": "HeeHaw", "mint": "EEpng77ZPn9FbgbT4xsRjwuxNCcMBYq3HTwEscyTpump", "out_sol": 0.090697, "cost_sol": 0.15, "pnl_sol": -0.059303, "reason": "stop-loss"}
+{"ts": "2026-10-10 07:11:35", "side": "BUY", "token": "swordcat", "mint": "5tCju6YNxHq5zrA6tGndr6F7TK42mpUFmeE31cSFpump", "in_sol": 0.15, "tokens": 4873.489276}
