@@ -15,3 +15,5 @@
 {"ts": "2026-10-09 17:02:13", "side": "BUY", "token": "SWOLF", "mint": "HwJyyniKKDRLXxjRSzyLtpvxzqecqrhrbcSbKRm7STNK", "in_sol": 0.15, "tokens": 23656.209534}
 {"ts": "2026-10-09 21:35:55", "side": "SELL", "token": "SWOLF", "mint": "HwJyyniKKDRLXxjRSzyLtpvxzqecqrhrbcSbKRm7STNK", "out_sol": 0.065125, "cost_sol": 0.15, "pnl_sol": -0.084875, "reason": "stop-loss"}
 {"ts": "2026-10-09 21:35:55", "side": "BUY", "token": "BORDR", "mint": "6Mix12LiHrQFojaQEnfPUC65Qkwd6X4Y5Qg93oFbordr", "in_sol": 0.15, "tokens": 11594.849328}
+{"ts": "2026-10-10 01:13:21", "side": "SELL", "token": "BORDR", "mint": "6Mix12LiHrQFojaQEnfPUC65Qkwd6X4Y5Qg93oFbordr", "out_sol": 0.289568, "cost_sol": 0.15, "pnl_sol": 0.139568, "reason": "take-profit"}
+{"ts": "2026-10-10 01:13:22", "side": "BUY", "token": "HeeHaw", "mint": "EEpng77ZPn9FbgbT4xsRjwuxNCcMBYq3HTwEscyTpump", "in_sol": 0.15, "tokens": 8026.632816}
