@@ -23,3 +23,4 @@
 {"ts": "2026-10-10 21:33:41", "side": "BUY", "token": "HeeHaw", "mint": "EEpng77ZPn9FbgbT4xsRjwuxNCcMBYq3HTwEscyTpump", "in_sol": 0.15, "tokens": 14400.488326}
 {"ts": "2026-10-11 00:25:50", "side": "SELL", "token": "HeeHaw", "mint": "EEpng77ZPn9FbgbT4xsRjwuxNCcMBYq3HTwEscyTpump", "out_sol": 0.111016, "cost_sol": 0.15, "pnl_sol": -0.038984, "reason": "stop-loss"}
 {"ts": "2026-10-11 00:25:50", "side": "BUY", "token": "CLAUDIA", "mint": "2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM", "in_sol": 0.15, "tokens": 3042.010346}
+{"ts": "2026-10-11 06:10:14", "side": "SELL", "token": "CLAUDIA", "mint": "2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM", "out_sol": 0.214182, "cost_sol": 0.15, "pnl_sol": 0.064182, "reason": "take-profit"}
