@@ -26,3 +26,4 @@
 {"ts": "2026-10-11 06:10:14", "side": "SELL", "token": "CLAUDIA", "mint": "2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM", "out_sol": 0.214182, "cost_sol": 0.15, "pnl_sol": 0.064182, "reason": "take-profit"}
 {"ts": "2026-10-11 12:47:52", "side": "BUY", "token": "PQC", "mint": "7K52aYQW9rWGjwZmQ7o2d1P6E7bji6hSMsqaLy5EcxLh", "in_sol": 0.15, "tokens": 25524.889623}
 {"ts": "2026-10-11 17:48:58", "side": "SELL", "token": "PQC", "mint": "7K52aYQW9rWGjwZmQ7o2d1P6E7bji6hSMsqaLy5EcxLh", "out_sol": 0.097022, "cost_sol": 0.15, "pnl_sol": -0.052978, "reason": "stop-loss"}
+{"ts": "2026-10-11 21:05:48", "side": "BUY", "token": "SWOLF", "mint": "HwJyyniKKDRLXxjRSzyLtpvxzqecqrhrbcSbKRm7STNK", "in_sol": 0.15, "tokens": 8383.201811}
