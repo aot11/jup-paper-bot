@@ -37,3 +37,5 @@
 {"ts": "2026-10-13 10:34:47", "side": "BUY", "token": "LOAD", "mint": "8sWe4GzK1YqG3vyzKHf8ZyB1WB5asofw2o6TqgFePtPo", "in_sol": 0.15, "tokens": 1949.802149}
 {"ts": "2026-10-13 17:47:00", "side": "SELL", "token": "LOAD", "mint": "8sWe4GzK1YqG3vyzKHf8ZyB1WB5asofw2o6TqgFePtPo", "out_sol": 0.146621, "cost_sol": 0.15, "pnl_sol": -0.003379, "reason": "dur\u00e9e max"}
 {"ts": "2026-10-13 17:47:00", "side": "BUY", "token": "SEALS", "mint": "3sKaoPryg4KrXubLWtoqF7MznLT7QNqKRxMMkkxTpump", "in_sol": 0.15, "tokens": 23638.445152}
+{"ts": "2026-10-13 21:58:56", "side": "SELL", "token": "SEALS", "mint": "3sKaoPryg4KrXubLWtoqF7MznLT7QNqKRxMMkkxTpump", "out_sol": 0.212298, "cost_sol": 0.15, "pnl_sol": 0.062298, "reason": "take-profit"}
+{"ts": "2026-10-13 21:58:56", "side": "BUY", "token": "CYBERLEEK", "mint": "ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg", "in_sol": 0.15, "tokens": 5860.998720541}
