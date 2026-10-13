@@ -32,3 +32,4 @@
 {"ts": "2026-10-12 06:24:58", "side": "SELL", "token": "FARM", "mint": "hKyXZVKmrBDPhKKhdSaaGf1qrFwUkwjqrdzRc63farm", "out_sol": 0.100756, "cost_sol": 0.15, "pnl_sol": -0.049244, "reason": "stop-loss"}
 {"ts": "2026-10-12 15:51:48", "side": "BUY", "token": "CYBERLEEK", "mint": "ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg", "in_sol": 0.15, "tokens": 4600.847360373}
 {"ts": "2026-10-12 22:38:16", "side": "SELL", "token": "CYBERLEEK", "mint": "ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg", "out_sol": 0.120001, "cost_sol": 0.15, "pnl_sol": -0.029999, "reason": "dur\u00e9e max"}
+{"ts": "2026-10-13 03:10:50", "side": "BUY", "token": "Normie", "mint": "DzMwArmdzPqcqgvyqAmTxy79XdA9NwK9mMteqWLJpump", "in_sol": 0.15, "tokens": 20337.958443}
