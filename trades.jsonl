@@ -42,3 +42,5 @@
 {"ts": "2026-10-14 01:02:58", "side": "BUY", "token": "DOPE", "mint": "33jENUQnjoitkMFpvNJcSHyLAHFWJuHwT6E3E8CNpump", "in_sol": 0.15, "tokens": 8358.56283}
 {"ts": "2026-10-14 06:03:29", "side": "SELL", "token": "CYBERLEEK", "mint": "ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg", "out_sol": 0.160597, "cost_sol": 0.15, "pnl_sol": 0.010597, "reason": "dur\u00e9e max"}
 {"ts": "2026-10-14 06:03:29", "side": "BUY", "token": "CLAUDIA", "mint": "2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM", "in_sol": 0.15, "tokens": 2697.071418}
+{"ts": "2026-10-14 11:43:08", "side": "SELL", "token": "DOPE", "mint": "33jENUQnjoitkMFpvNJcSHyLAHFWJuHwT6E3E8CNpump", "out_sol": 0.196292, "cost_sol": 0.15, "pnl_sol": 0.046292, "reason": "dur\u00e9e max"}
+{"ts": "2026-10-14 11:43:08", "side": "BUY", "token": "CYBERLEEK", "mint": "ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg", "in_sol": 0.15, "tokens": 5739.446524637}
