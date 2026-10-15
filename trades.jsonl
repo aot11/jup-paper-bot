@@ -50,3 +50,4 @@
 {"ts": "2026-10-14 23:09:51", "side": "SELL", "token": "DOPE", "mint": "33jENUQnjoitkMFpvNJcSHyLAHFWJuHwT6E3E8CNpump", "out_sol": 0.357321, "cost_sol": 0.15, "pnl_sol": 0.207321, "reason": "take-profit"}
 {"ts": "2026-10-14 23:09:52", "side": "BUY", "token": "SAINDRA", "mint": "A2yA6AFtfKkfVkfsnGpvsKoUV5kQPpMYboZsBPvmkA9T", "in_sol": 0.15, "tokens": 28183.892288}
 {"ts": "2026-10-15 06:16:56", "side": "SELL", "token": "SAINDRA", "mint": "A2yA6AFtfKkfVkfsnGpvsKoUV5kQPpMYboZsBPvmkA9T", "out_sol": 0.162067, "cost_sol": 0.15, "pnl_sol": 0.012067, "reason": "dur\u00e9e max"}
+{"ts": "2026-10-15 11:42:22", "side": "BUY", "token": "Nihilism", "mint": "2ay4jNY3JxfuXJzhZ8DrAKkGzpirgD7Dv2ccL9zmpump", "in_sol": 0.15, "tokens": 27385.304795}
