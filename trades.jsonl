@@ -53,3 +53,4 @@
 {"ts": "2026-10-15 11:42:22", "side": "BUY", "token": "Nihilism", "mint": "2ay4jNY3JxfuXJzhZ8DrAKkGzpirgD7Dv2ccL9zmpump", "in_sol": 0.15, "tokens": 27385.304795}
 {"ts": "2026-10-15 15:45:00", "side": "SELL", "token": "Nihilism", "mint": "2ay4jNY3JxfuXJzhZ8DrAKkGzpirgD7Dv2ccL9zmpump", "out_sol": 0.085334, "cost_sol": 0.15, "pnl_sol": -0.064666, "reason": "stop-loss"}
 {"ts": "2026-10-15 15:45:00", "side": "BUY", "token": "Altai", "mint": "Gyk9Z93Ri2JUjqES9HTpc7pxCJTLD7vhBhEjBhyApump", "in_sol": 0.15, "tokens": 36763.794158}
+{"ts": "2026-10-15 19:27:23", "side": "BUY", "token": "Dacity", "mint": "nxPqZ4F7ux8Vph5NFu25rEP6Kx9Gr1U6Fmj36Rjpump", "in_sol": 0.15, "tokens": 9490.936615}
