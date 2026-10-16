@@ -56,3 +56,5 @@
 {"ts": "2026-10-15 19:27:23", "side": "BUY", "token": "Dacity", "mint": "nxPqZ4F7ux8Vph5NFu25rEP6Kx9Gr1U6Fmj36Rjpump", "in_sol": 0.15, "tokens": 9490.936615}
 {"ts": "2026-10-15 22:35:43", "side": "SELL", "token": "Altai", "mint": "Gyk9Z93Ri2JUjqES9HTpc7pxCJTLD7vhBhEjBhyApump", "out_sol": 0.171471, "cost_sol": 0.15, "pnl_sol": 0.021471, "reason": "dur\u00e9e max"}
 {"ts": "2026-10-15 22:35:43", "side": "BUY", "token": "1", "mint": "2bCCHQadi4QeHWPKG3w13siCyWWQPgkFtniouTqVpump", "in_sol": 0.15, "tokens": 18903.697756}
+{"ts": "2026-10-16 00:43:13", "side": "SELL", "token": "1", "mint": "2bCCHQadi4QeHWPKG3w13siCyWWQPgkFtniouTqVpump", "out_sol": 0.355365, "cost_sol": 0.15, "pnl_sol": 0.205365, "reason": "take-profit"}
+{"ts": "2026-10-16 00:43:13", "side": "BUY", "token": "BUBBLE", "mint": "ALDVtr9JeLjKH91fHFvLxFoyd7C6eLUxi9dUoN2FsWdD", "in_sol": 0.15, "tokens": 13180.348291}
