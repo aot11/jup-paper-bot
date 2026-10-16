@@ -65,3 +65,5 @@
 {"ts": "2026-10-16 14:19:12", "side": "SELL", "token": "FTR", "mint": "DFMt2FyLpB6ekPNAzVErLXgpSnJ9CRf1VnxBAkTLpump", "out_sol": 0.184108, "cost_sol": 0.15, "pnl_sol": 0.034108, "reason": "dur\u00e9e max"}
 {"ts": "2026-10-16 14:19:12", "side": "BUY", "token": "OTC", "mint": "MukLDtJ8Cx9DxLbeyLRSWPSposTMWuwHANbuaudpump", "in_sol": 0.15, "tokens": 1674.274286}
 {"ts": "2026-10-16 18:10:57", "side": "SELL", "token": "1", "mint": "2bCCHQadi4QeHWPKG3w13siCyWWQPgkFtniouTqVpump", "out_sol": 0.194261, "cost_sol": 0.15, "pnl_sol": 0.044261, "reason": "dur\u00e9e max"}
+{"ts": "2026-10-16 21:07:15", "side": "SELL", "token": "OTC", "mint": "MukLDtJ8Cx9DxLbeyLRSWPSposTMWuwHANbuaudpump", "out_sol": 0.120961, "cost_sol": 0.15, "pnl_sol": -0.029039, "reason": "dur\u00e9e max"}
+{"ts": "2026-10-16 21:07:16", "side": "BUY", "token": "FTR", "mint": "DFMt2FyLpB6ekPNAzVErLXgpSnJ9CRf1VnxBAkTLpump", "in_sol": 0.15, "tokens": 4063.463815}
