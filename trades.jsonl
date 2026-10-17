@@ -73,3 +73,4 @@
 {"ts": "2026-10-17 06:03:40", "side": "BUY", "token": "1", "mint": "2bCCHQadi4QeHWPKG3w13siCyWWQPgkFtniouTqVpump", "in_sol": 0.15, "tokens": 9866.151919}
 {"ts": "2026-10-17 10:33:22", "side": "SELL", "token": "1", "mint": "2bCCHQadi4QeHWPKG3w13siCyWWQPgkFtniouTqVpump", "out_sol": 0.113171, "cost_sol": 0.15, "pnl_sol": -0.036829, "reason": "stop-loss"}
 {"ts": "2026-10-17 10:33:23", "side": "BUY", "token": "VEIL", "mint": "HgTGdc29D5bDMrDvsCLnorxz899VyDj7ZN7FPa6vpump", "in_sol": 0.15, "tokens": 3677.441739}
+{"ts": "2026-10-17 13:53:39", "side": "BUY", "token": "Aloooong", "mint": "1htv5Nzfdy44FJWAdTXZoACJW4BWbB2XwZC6SVopurp", "in_sol": 0.15, "tokens": 39959.407769}
