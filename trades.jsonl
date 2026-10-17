@@ -69,3 +69,5 @@
 {"ts": "2026-10-16 21:07:16", "side": "BUY", "token": "FTR", "mint": "DFMt2FyLpB6ekPNAzVErLXgpSnJ9CRf1VnxBAkTLpump", "in_sol": 0.15, "tokens": 4063.463815}
 {"ts": "2026-10-17 01:29:40", "side": "SELL", "token": "FTR", "mint": "DFMt2FyLpB6ekPNAzVErLXgpSnJ9CRf1VnxBAkTLpump", "out_sol": 0.157036, "cost_sol": 0.15, "pnl_sol": 0.007036, "reason": "trailing (pic +29 %)"}
 {"ts": "2026-10-17 01:29:40", "side": "BUY", "token": "onboard", "mint": "5ubruMYpgKqw9ip5J1qrXbVGmMdn2VCsMg421B4bpump", "in_sol": 0.15, "tokens": 35691.376035}
+{"ts": "2026-10-17 06:03:40", "side": "SELL", "token": "onboard", "mint": "5ubruMYpgKqw9ip5J1qrXbVGmMdn2VCsMg421B4bpump", "out_sol": 0.048167, "cost_sol": 0.15, "pnl_sol": -0.101833, "reason": "stop-loss"}
+{"ts": "2026-10-17 06:03:40", "side": "BUY", "token": "1", "mint": "2bCCHQadi4QeHWPKG3w13siCyWWQPgkFtniouTqVpump", "in_sol": 0.15, "tokens": 9866.151919}
