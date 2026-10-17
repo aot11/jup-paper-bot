@@ -78,3 +78,5 @@
 {"ts": "2026-10-17 16:46:14", "side": "SELL", "token": "Aloooong", "mint": "1htv5Nzfdy44FJWAdTXZoACJW4BWbB2XwZC6SVopurp", "out_sol": 0.107234, "cost_sol": 0.15, "pnl_sol": -0.042766, "reason": "stop-loss"}
 {"ts": "2026-10-17 16:46:14", "side": "BUY", "token": "FTR", "mint": "DFMt2FyLpB6ekPNAzVErLXgpSnJ9CRf1VnxBAkTLpump", "in_sol": 0.15, "tokens": 5047.325908}
 {"ts": "2026-10-17 21:09:25", "side": "BUY", "token": "Gato", "mint": "55A3VxMBfzw6uSe64zms5iMPw9k6kx9WzzusbCU6pump", "in_sol": 0.15, "tokens": 23169.712632}
+{"ts": "2026-10-17 23:06:49", "side": "SELL", "token": "FTR", "mint": "DFMt2FyLpB6ekPNAzVErLXgpSnJ9CRf1VnxBAkTLpump", "out_sol": 0.114706, "cost_sol": 0.15, "pnl_sol": -0.035294, "reason": "stop-loss"}
+{"ts": "2026-10-17 23:06:49", "side": "BUY", "token": "onboard", "mint": "5ubruMYpgKqw9ip5J1qrXbVGmMdn2VCsMg421B4bpump", "in_sol": 0.15, "tokens": 39083.008558}
