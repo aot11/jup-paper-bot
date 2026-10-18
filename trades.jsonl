@@ -81,3 +81,6 @@
 {"ts": "2026-10-17 23:06:49", "side": "SELL", "token": "FTR", "mint": "DFMt2FyLpB6ekPNAzVErLXgpSnJ9CRf1VnxBAkTLpump", "out_sol": 0.114706, "cost_sol": 0.15, "pnl_sol": -0.035294, "reason": "stop-loss"}
 {"ts": "2026-10-17 23:06:49", "side": "BUY", "token": "onboard", "mint": "5ubruMYpgKqw9ip5J1qrXbVGmMdn2VCsMg421B4bpump", "in_sol": 0.15, "tokens": 39083.008558}
 {"ts": "2026-10-18 00:58:45", "side": "BUY", "token": "hi", "mint": "6x4Z2dr5DgHUBCKvta8T8GNsFTxJhsBZxNrycWQ8pump", "in_sol": 0.15, "tokens": 32733.512651}
+{"ts": "2026-10-18 05:38:45", "side": "SELL", "token": "Gato", "mint": "55A3VxMBfzw6uSe64zms5iMPw9k6kx9WzzusbCU6pump", "out_sol": 0.110466, "cost_sol": 0.15, "pnl_sol": -0.039534, "reason": "stop-loss"}
+{"ts": "2026-10-18 05:38:45", "side": "SELL", "token": "onboard", "mint": "5ubruMYpgKqw9ip5J1qrXbVGmMdn2VCsMg421B4bpump", "out_sol": 0.263871, "cost_sol": 0.15, "pnl_sol": 0.113871, "reason": "take-profit"}
+{"ts": "2026-10-18 05:38:45", "side": "SELL", "token": "hi", "mint": "6x4Z2dr5DgHUBCKvta8T8GNsFTxJhsBZxNrycWQ8pump", "out_sol": 0.109612, "cost_sol": 0.15, "pnl_sol": -0.040388, "reason": "stop-loss"}
