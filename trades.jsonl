@@ -85,3 +85,5 @@
 {"ts": "2026-10-18 05:38:45", "side": "SELL", "token": "onboard", "mint": "5ubruMYpgKqw9ip5J1qrXbVGmMdn2VCsMg421B4bpump", "out_sol": 0.263871, "cost_sol": 0.15, "pnl_sol": 0.113871, "reason": "take-profit"}
 {"ts": "2026-10-18 05:38:45", "side": "SELL", "token": "hi", "mint": "6x4Z2dr5DgHUBCKvta8T8GNsFTxJhsBZxNrycWQ8pump", "out_sol": 0.109612, "cost_sol": 0.15, "pnl_sol": -0.040388, "reason": "stop-loss"}
 {"ts": "2026-10-18 09:53:29", "side": "BUY", "token": "TSI", "mint": "AcV6CcpMGFrA1dhRFiCKNiVNje8QE6ZXR9ep9jh7pump", "in_sol": 0.15, "tokens": 29864.119304}
+{"ts": "2026-10-18 13:41:45", "side": "SELL", "token": "TSI", "mint": "AcV6CcpMGFrA1dhRFiCKNiVNje8QE6ZXR9ep9jh7pump", "out_sol": 0.100092, "cost_sol": 0.15, "pnl_sol": -0.049908, "reason": "stop-loss"}
+{"ts": "2026-10-18 13:41:46", "side": "BUY", "token": "mucron", "mint": "3A3qjns31YZA6Ung91ZpoPD7J3p1bDFbTJ4ANFAPpump", "in_sol": 0.15, "tokens": 15640.729302}
