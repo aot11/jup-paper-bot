@@ -92,3 +92,4 @@
 {"ts": "2026-10-18 21:33:19", "side": "SELL", "token": "LUKE", "mint": "Ez7eEs53hQiXgCGmcbhdX5i1jgg2gC3F6MoeosuVpump", "out_sol": 0.101316, "cost_sol": 0.15, "pnl_sol": -0.048684, "reason": "stop-loss"}
 {"ts": "2026-10-18 21:33:19", "side": "BUY", "token": "Dacity", "mint": "nxPqZ4F7ux8Vph5NFu25rEP6Kx9Gr1U6Fmj36Rjpump", "in_sol": 0.15, "tokens": 3328.266174}
 {"ts": "2026-10-18 23:35:57", "side": "BUY", "token": "FTR", "mint": "DFMt2FyLpB6ekPNAzVErLXgpSnJ9CRf1VnxBAkTLpump", "in_sol": 0.15, "tokens": 6496.524937}
+{"ts": "2026-10-19 01:38:00", "side": "BUY", "token": "PIERRE", "mint": "D3S6J9s1byrNBt3ZKwEDiPsNRqHtoEP8zQKdhyBdpump", "in_sol": 0.15, "tokens": 12490.905205}
