@@ -96,3 +96,6 @@
 {"ts": "2026-10-19 06:48:05", "side": "SELL", "token": "Dacity", "mint": "nxPqZ4F7ux8Vph5NFu25rEP6Kx9Gr1U6Fmj36Rjpump", "out_sol": 0.135856, "cost_sol": 0.15, "pnl_sol": -0.014144, "reason": "dur\u00e9e max"}
 {"ts": "2026-10-19 06:48:06", "side": "SELL", "token": "FTR", "mint": "DFMt2FyLpB6ekPNAzVErLXgpSnJ9CRf1VnxBAkTLpump", "out_sol": 0.104114, "cost_sol": 0.15, "pnl_sol": -0.045886, "reason": "stop-loss"}
 {"ts": "2026-10-19 06:48:06", "side": "BUY", "token": "AgenC", "mint": "5yC9BM8KUsJTPbWPLfA2N8qH1s9V8DQ3Vcw1G6Jdpump", "in_sol": 0.15, "tokens": 13602.440296}
+{"ts": "2026-10-19 14:03:49", "side": "SELL", "token": "PIERRE", "mint": "D3S6J9s1byrNBt3ZKwEDiPsNRqHtoEP8zQKdhyBdpump", "out_sol": 0.203747, "cost_sol": 0.15, "pnl_sol": 0.053747, "reason": "dur\u00e9e max"}
+{"ts": "2026-10-19 14:03:49", "side": "SELL", "token": "AgenC", "mint": "5yC9BM8KUsJTPbWPLfA2N8qH1s9V8DQ3Vcw1G6Jdpump", "out_sol": 0.104049, "cost_sol": 0.15, "pnl_sol": -0.045951, "reason": "stop-loss"}
+{"ts": "2026-10-19 14:03:49", "side": "BUY", "token": "WEFT", "mint": "HqmFi85adLD8BQA7en1HfajdAfzVFps5REgQaYuw6Ax8", "in_sol": 0.15, "tokens": 5380.523749}
