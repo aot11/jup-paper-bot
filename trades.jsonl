@@ -109,3 +109,4 @@
 {"ts": "2026-10-20 12:15:42", "side": "BUY", "token": "COMPUTE", "mint": "GWe3TNg1UPxeaSazxK8U49PDAqXCaX9Jc8zbttFLpump", "in_sol": 0.15, "tokens": 35829.682018}
 {"ts": "2026-10-20 17:16:41", "side": "SELL", "token": "COMPUTE", "mint": "GWe3TNg1UPxeaSazxK8U49PDAqXCaX9Jc8zbttFLpump", "out_sol": 0.074084, "cost_sol": 0.15, "pnl_sol": -0.075916, "reason": "stop-loss"}
 {"ts": "2026-10-20 17:16:42", "side": "BUY", "token": "Pok\u00e9mon", "mint": "D42TjMjz5H7toPu5md5KBXreZkCSdZMEfLQwmBhJXvb1", "in_sol": 0.15, "tokens": 10302.055871}
+{"ts": "2026-10-20 23:25:13", "side": "SELL", "token": "Pok\u00e9mon", "mint": "D42TjMjz5H7toPu5md5KBXreZkCSdZMEfLQwmBhJXvb1", "out_sol": 0.183837, "cost_sol": 0.15, "pnl_sol": 0.033837, "reason": "dur\u00e9e max"}
