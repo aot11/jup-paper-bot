@@ -102,3 +102,5 @@
 {"ts": "2026-10-19 19:49:22", "side": "BUY", "token": "DOPE", "mint": "33jENUQnjoitkMFpvNJcSHyLAHFWJuHwT6E3E8CNpump", "in_sol": 0.15, "tokens": 4957.030186}
 {"ts": "2026-10-19 23:08:51", "side": "SELL", "token": "WEFT", "mint": "HqmFi85adLD8BQA7en1HfajdAfzVFps5REgQaYuw6Ax8", "out_sol": 0.109225, "cost_sol": 0.15, "pnl_sol": -0.040775, "reason": "stop-loss"}
 {"ts": "2026-10-19 23:08:52", "side": "BUY", "token": "PIERRE", "mint": "D3S6J9s1byrNBt3ZKwEDiPsNRqHtoEP8zQKdhyBdpump", "in_sol": 0.15, "tokens": 33438.709433}
+{"ts": "2026-10-20 01:48:08", "side": "SELL", "token": "PIERRE", "mint": "D3S6J9s1byrNBt3ZKwEDiPsNRqHtoEP8zQKdhyBdpump", "out_sol": 0.087969, "cost_sol": 0.15, "pnl_sol": -0.062031, "reason": "stop-loss"}
+{"ts": "2026-10-20 01:48:08", "side": "BUY", "token": "Pok\u00e9mon", "mint": "D42TjMjz5H7toPu5md5KBXreZkCSdZMEfLQwmBhJXvb1", "in_sol": 0.15, "tokens": 25253.542341}
