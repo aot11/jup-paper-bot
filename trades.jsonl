@@ -115,3 +115,5 @@
 {"ts": "2026-10-21 12:25:08", "side": "SELL", "token": "GTA6", "mint": "4kjruqGHDsSqkMdFfCjV7Vb62HPFhtXyWc2t6JpQzDnz", "out_sol": 0.190713, "cost_sol": 0.15, "pnl_sol": 0.040713, "reason": "dur\u00e9e max"}
 {"ts": "2026-10-21 17:30:56", "side": "SELL", "token": "Pok\u00e9mon", "mint": "D42TjMjz5H7toPu5md5KBXreZkCSdZMEfLQwmBhJXvb1", "out_sol": 0.053394, "cost_sol": 0.15, "pnl_sol": -0.096606, "reason": "stop-loss"}
 {"ts": "2026-10-21 17:30:56", "side": "BUY", "token": "DOPE", "mint": "33jENUQnjoitkMFpvNJcSHyLAHFWJuHwT6E3E8CNpump", "in_sol": 0.15, "tokens": 7492.493867}
+{"ts": "2026-10-21 23:44:50", "side": "SELL", "token": "DOPE", "mint": "33jENUQnjoitkMFpvNJcSHyLAHFWJuHwT6E3E8CNpump", "out_sol": 0.166842, "cost_sol": 0.15, "pnl_sol": 0.016842, "reason": "dur\u00e9e max"}
+{"ts": "2026-10-21 23:44:50", "side": "BUY", "token": "PHP", "mint": "Cbkg5w7V7W2J2sUmecnyN825CbvwvXwasfhduVtNpump", "in_sol": 0.15, "tokens": 31088.261139}
