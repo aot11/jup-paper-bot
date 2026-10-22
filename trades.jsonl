@@ -121,3 +121,4 @@
 {"ts": "2026-10-22 01:56:25", "side": "BUY", "token": "CYBER", "mint": "CMo7GfUhSGXuEfnY7qAzv8hhsV2M2P8GpWqmWikhpump", "in_sol": 0.15, "tokens": 26767.707867}
 {"ts": "2026-10-22 07:10:24", "side": "SELL", "token": "CYBER", "mint": "CMo7GfUhSGXuEfnY7qAzv8hhsV2M2P8GpWqmWikhpump", "out_sol": 0.076252, "cost_sol": 0.15, "pnl_sol": -0.073748, "reason": "stop-loss"}
 {"ts": "2026-10-22 07:10:24", "side": "BUY", "token": "RETAIL", "mint": "86j9yoVzuuCjLAq4hFyaX1cphRc9SJhWhSN4h9Hh79Be", "in_sol": 0.15, "tokens": 430359.611164}
+{"ts": "2026-10-22 12:57:52", "side": "SELL", "token": "RETAIL", "mint": "86j9yoVzuuCjLAq4hFyaX1cphRc9SJhWhSN4h9Hh79Be", "out_sol": 0.081103, "cost_sol": 0.15, "pnl_sol": -0.068897, "reason": "stop-loss"}
