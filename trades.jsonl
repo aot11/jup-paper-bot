@@ -124,3 +124,6 @@
 {"ts": "2026-10-22 12:57:52", "side": "SELL", "token": "RETAIL", "mint": "86j9yoVzuuCjLAq4hFyaX1cphRc9SJhWhSN4h9Hh79Be", "out_sol": 0.081103, "cost_sol": 0.15, "pnl_sol": -0.068897, "reason": "stop-loss"}
 {"ts": "2026-10-22 17:53:29", "side": "BUY", "token": "DOPE", "mint": "33jENUQnjoitkMFpvNJcSHyLAHFWJuHwT6E3E8CNpump", "in_sol": 0.15, "tokens": 8251.868901}
 {"ts": "2026-10-22 21:01:29", "side": "BUY", "token": "LUKE", "mint": "Ez7eEs53hQiXgCGmcbhdX5i1jgg2gC3F6MoeosuVpump", "in_sol": 0.15, "tokens": 17234.775786}
+{"ts": "2026-10-22 23:57:06", "side": "SELL", "token": "DOPE", "mint": "33jENUQnjoitkMFpvNJcSHyLAHFWJuHwT6E3E8CNpump", "out_sol": 0.169493, "cost_sol": 0.15, "pnl_sol": 0.019493, "reason": "dur\u00e9e max"}
+{"ts": "2026-10-22 23:57:06", "side": "SELL", "token": "LUKE", "mint": "Ez7eEs53hQiXgCGmcbhdX5i1jgg2gC3F6MoeosuVpump", "out_sol": 0.112698, "cost_sol": 0.15, "pnl_sol": -0.037302, "reason": "stop-loss"}
+{"ts": "2026-10-22 23:57:06", "side": "BUY", "token": "BTC", "mint": "C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump", "in_sol": 0.15, "tokens": 9734.38963}
