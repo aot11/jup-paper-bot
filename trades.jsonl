@@ -117,3 +117,5 @@
 {"ts": "2026-10-21 17:30:56", "side": "BUY", "token": "DOPE", "mint": "33jENUQnjoitkMFpvNJcSHyLAHFWJuHwT6E3E8CNpump", "in_sol": 0.15, "tokens": 7492.493867}
 {"ts": "2026-10-21 23:44:50", "side": "SELL", "token": "DOPE", "mint": "33jENUQnjoitkMFpvNJcSHyLAHFWJuHwT6E3E8CNpump", "out_sol": 0.166842, "cost_sol": 0.15, "pnl_sol": 0.016842, "reason": "dur\u00e9e max"}
 {"ts": "2026-10-21 23:44:50", "side": "BUY", "token": "PHP", "mint": "Cbkg5w7V7W2J2sUmecnyN825CbvwvXwasfhduVtNpump", "in_sol": 0.15, "tokens": 31088.261139}
+{"ts": "2026-10-22 01:56:25", "side": "SELL", "token": "PHP", "mint": "Cbkg5w7V7W2J2sUmecnyN825CbvwvXwasfhduVtNpump", "out_sol": 0.224635, "cost_sol": 0.15, "pnl_sol": 0.074635, "reason": "take-profit"}
+{"ts": "2026-10-22 01:56:25", "side": "BUY", "token": "CYBER", "mint": "CMo7GfUhSGXuEfnY7qAzv8hhsV2M2P8GpWqmWikhpump", "in_sol": 0.15, "tokens": 26767.707867}
