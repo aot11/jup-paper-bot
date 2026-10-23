@@ -134,3 +134,6 @@
 {"ts": "2026-10-23 13:53:00", "side": "BUY", "token": "BTC", "mint": "C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump", "in_sol": 0.15, "tokens": 10215.544428}
 {"ts": "2026-10-23 18:01:36", "side": "SELL", "token": "McRib", "mint": "8idEA8QovsZJka6d9Z35fejE5MbL37BJxvw5k5r6pump", "out_sol": 0.175044, "cost_sol": 0.15, "pnl_sol": 0.025044, "reason": "dur\u00e9e max"}
 {"ts": "2026-10-23 18:01:36", "side": "BUY", "token": "\u30e4\u30ae", "mint": "EU1MHvQvBoJ7DnLorurze1hwR2JWuyoKyAmkwymwpump", "in_sol": 0.15, "tokens": 13648.32108}
+{"ts": "2026-10-23 21:18:59", "side": "SELL", "token": "BTC", "mint": "C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump", "out_sol": 0.161623, "cost_sol": 0.15, "pnl_sol": 0.011623, "reason": "dur\u00e9e max"}
+{"ts": "2026-10-23 21:18:59", "side": "SELL", "token": "\u30e4\u30ae", "mint": "EU1MHvQvBoJ7DnLorurze1hwR2JWuyoKyAmkwymwpump", "out_sol": 0.095486, "cost_sol": 0.15, "pnl_sol": -0.054514, "reason": "stop-loss"}
+{"ts": "2026-10-23 21:18:59", "side": "BUY", "token": "DOPE", "mint": "33jENUQnjoitkMFpvNJcSHyLAHFWJuHwT6E3E8CNpump", "in_sol": 0.15, "tokens": 4948.028594}
