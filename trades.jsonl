@@ -138,3 +138,6 @@
 {"ts": "2026-10-23 21:18:59", "side": "SELL", "token": "\u30e4\u30ae", "mint": "EU1MHvQvBoJ7DnLorurze1hwR2JWuyoKyAmkwymwpump", "out_sol": 0.095486, "cost_sol": 0.15, "pnl_sol": -0.054514, "reason": "stop-loss"}
 {"ts": "2026-10-23 21:18:59", "side": "BUY", "token": "DOPE", "mint": "33jENUQnjoitkMFpvNJcSHyLAHFWJuHwT6E3E8CNpump", "in_sol": 0.15, "tokens": 4948.028594}
 {"ts": "2026-10-23 23:53:00", "side": "BUY", "token": "BTC", "mint": "C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump", "in_sol": 0.15, "tokens": 6758.703031}
+{"ts": "2026-10-24 07:34:20", "side": "SELL", "token": "DOPE", "mint": "33jENUQnjoitkMFpvNJcSHyLAHFWJuHwT6E3E8CNpump", "out_sol": 0.155344, "cost_sol": 0.15, "pnl_sol": 0.005344, "reason": "dur\u00e9e max"}
+{"ts": "2026-10-24 07:34:20", "side": "SELL", "token": "BTC", "mint": "C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump", "out_sol": 0.210224, "cost_sol": 0.15, "pnl_sol": 0.060224, "reason": "dur\u00e9e max"}
+{"ts": "2026-10-24 07:34:20", "side": "BUY", "token": "Moustache", "mint": "J9WL4zQVCFvLTydjtHoMGcLasjhRMZomnVmp4Y2cpump", "in_sol": 0.15, "tokens": 38397.178117}
