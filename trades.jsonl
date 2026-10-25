@@ -155,3 +155,4 @@
 {"ts": "2026-10-25 06:14:10", "side": "BUY", "token": "\u2588\u2588\u2588", "mint": "EwX2T1p2PmgTsSq2Bi6XtQYxPC5krR4P2fxPfN4Qpump", "in_sol": 0.15, "tokens": 23489.07223}
 {"ts": "2026-10-25 11:37:59", "side": "BUY", "token": "swordcat", "mint": "5tCju6YNxHq5zrA6tGndr6F7TK42mpUFmeE31cSFpump", "in_sol": 0.15, "tokens": 4395.532191}
 {"ts": "2026-10-25 15:02:41", "side": "SELL", "token": "\u2588\u2588\u2588", "mint": "EwX2T1p2PmgTsSq2Bi6XtQYxPC5krR4P2fxPfN4Qpump", "out_sol": 0.125904, "cost_sol": 0.15, "pnl_sol": -0.024096, "reason": "dur\u00e9e max"}
+{"ts": "2026-10-25 18:21:19", "side": "SELL", "token": "swordcat", "mint": "5tCju6YNxHq5zrA6tGndr6F7TK42mpUFmeE31cSFpump", "out_sol": 0.132332, "cost_sol": 0.15, "pnl_sol": -0.017668, "reason": "dur\u00e9e max"}
