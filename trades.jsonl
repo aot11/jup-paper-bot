@@ -148,3 +148,5 @@
 {"ts": "2026-10-24 21:12:09", "side": "BUY", "token": "swordcat", "mint": "5tCju6YNxHq5zrA6tGndr6F7TK42mpUFmeE31cSFpump", "in_sol": 0.15, "tokens": 5382.124673}
 {"ts": "2026-10-24 23:15:45", "side": "SELL", "token": "BTC", "mint": "C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump", "out_sol": 0.236684, "cost_sol": 0.15, "pnl_sol": 0.086684, "reason": "take-profit"}
 {"ts": "2026-10-24 23:15:46", "side": "BUY", "token": "JEANPHIL", "mint": "GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump", "in_sol": 0.15, "tokens": 3974.178465}
+{"ts": "2026-10-25 01:15:47", "side": "SELL", "token": "swordcat", "mint": "5tCju6YNxHq5zrA6tGndr6F7TK42mpUFmeE31cSFpump", "out_sol": 0.113566, "cost_sol": 0.15, "pnl_sol": -0.036434, "reason": "stop-loss"}
+{"ts": "2026-10-25 01:15:48", "side": "BUY", "token": "BTC", "mint": "C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump", "in_sol": 0.15, "tokens": 2036.762687}
