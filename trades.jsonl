@@ -163,3 +163,4 @@
 {"ts": "2026-10-26 12:52:02", "side": "BUY", "token": "NTRNDM", "mint": "NTRNDMqQSiwEC2jJs3wJiZS6bpGYQJtMNQJgiX3WyV6", "in_sol": 0.15, "tokens": 18235.318359}
 {"ts": "2026-10-26 18:54:52", "side": "SELL", "token": "NTRNDM", "mint": "NTRNDMqQSiwEC2jJs3wJiZS6bpGYQJtMNQJgiX3WyV6", "out_sol": 0.142366, "cost_sol": 0.15, "pnl_sol": -0.007634, "reason": "dur\u00e9e max"}
 {"ts": "2026-10-26 18:54:52", "side": "BUY", "token": "PRESIDENT", "mint": "3LPTanzycRAjguU6VAXE7T2Fd12LePQLpHATXXs9pump", "in_sol": 0.15, "tokens": 87074.232954}
+{"ts": "2026-10-26 22:59:58", "side": "BUY", "token": "BTC", "mint": "C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump", "in_sol": 0.15, "tokens": 2204.717286}
