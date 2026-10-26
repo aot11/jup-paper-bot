@@ -159,3 +159,5 @@
 {"ts": "2026-10-25 20:59:35", "side": "BUY", "token": "\u2588\u2588\u2588", "mint": "EwX2T1p2PmgTsSq2Bi6XtQYxPC5krR4P2fxPfN4Qpump", "in_sol": 0.15, "tokens": 31704.953956}
 {"ts": "2026-10-26 01:07:52", "side": "SELL", "token": "\u2588\u2588\u2588", "mint": "EwX2T1p2PmgTsSq2Bi6XtQYxPC5krR4P2fxPfN4Qpump", "out_sol": 0.215522, "cost_sol": 0.15, "pnl_sol": 0.065522, "reason": "take-profit"}
 {"ts": "2026-10-26 06:07:28", "side": "BUY", "token": "LAUNCH", "mint": "AhBidGAgv6QbKSWfrSCegGrzFLcBx4E5FNYTKHNQQj6C", "in_sol": 0.15, "tokens": 13382.611315}
+{"ts": "2026-10-26 12:52:02", "side": "SELL", "token": "LAUNCH", "mint": "AhBidGAgv6QbKSWfrSCegGrzFLcBx4E5FNYTKHNQQj6C", "out_sol": 0.289819, "cost_sol": 0.15, "pnl_sol": 0.139819, "reason": "take-profit"}
+{"ts": "2026-10-26 12:52:02", "side": "BUY", "token": "NTRNDM", "mint": "NTRNDMqQSiwEC2jJs3wJiZS6bpGYQJtMNQJgiX3WyV6", "in_sol": 0.15, "tokens": 18235.318359}
