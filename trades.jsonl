@@ -170,3 +170,5 @@
 {"ts": "2026-10-27 07:35:45", "side": "BUY", "token": "ELON2028", "mint": "8BnNS15Q6h6D5Vcq1sNPaUxhpRVdK8FGRbLvCrLxibSx", "in_sol": 0.15, "tokens": 30752.35817}
 {"ts": "2026-10-27 13:32:49", "side": "SELL", "token": "Nothing", "mint": "51SfaAyrYaR8FpibXT4TXtxEpnZSNoDwYVRojtKupump", "out_sol": 0.305975, "cost_sol": 0.15, "pnl_sol": 0.155975, "reason": "take-profit"}
 {"ts": "2026-10-27 13:32:49", "side": "BUY", "token": "\u2588\u2588\u2588", "mint": "EwX2T1p2PmgTsSq2Bi6XtQYxPC5krR4P2fxPfN4Qpump", "in_sol": 0.15, "tokens": 13104.75202}
+{"ts": "2026-10-27 18:54:15", "side": "SELL", "token": "ELON2028", "mint": "8BnNS15Q6h6D5Vcq1sNPaUxhpRVdK8FGRbLvCrLxibSx", "out_sol": 0.057611, "cost_sol": 0.15, "pnl_sol": -0.092389, "reason": "stop-loss"}
+{"ts": "2026-10-27 18:54:15", "side": "BUY", "token": "MOGZ", "mint": "Pmfm2RprxQRKZH1XWVsBUc2KgCTyzeDTSFbT1vJmogz", "in_sol": 0.15, "tokens": 21798.314143}
