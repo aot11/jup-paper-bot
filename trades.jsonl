@@ -166,3 +166,5 @@
 {"ts": "2026-10-26 22:59:58", "side": "BUY", "token": "BTC", "mint": "C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump", "in_sol": 0.15, "tokens": 2204.717286}
 {"ts": "2026-10-27 01:58:30", "side": "SELL", "token": "PRESIDENT", "mint": "3LPTanzycRAjguU6VAXE7T2Fd12LePQLpHATXXs9pump", "out_sol": 0.182374, "cost_sol": 0.15, "pnl_sol": 0.032374, "reason": "dur\u00e9e max"}
 {"ts": "2026-10-27 01:58:30", "side": "BUY", "token": "Nothing", "mint": "51SfaAyrYaR8FpibXT4TXtxEpnZSNoDwYVRojtKupump", "in_sol": 0.15, "tokens": 28416.774422}
+{"ts": "2026-10-27 07:35:44", "side": "SELL", "token": "BTC", "mint": "C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump", "out_sol": 0.136767, "cost_sol": 0.15, "pnl_sol": -0.013233, "reason": "dur\u00e9e max"}
+{"ts": "2026-10-27 07:35:45", "side": "BUY", "token": "ELON2028", "mint": "8BnNS15Q6h6D5Vcq1sNPaUxhpRVdK8FGRbLvCrLxibSx", "in_sol": 0.15, "tokens": 30752.35817}
