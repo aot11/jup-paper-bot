@@ -179,3 +179,5 @@
 {"ts": "2026-10-28 14:27:19", "side": "SELL", "token": "\u2588\u2588\u2588", "mint": "EwX2T1p2PmgTsSq2Bi6XtQYxPC5krR4P2fxPfN4Qpump", "out_sol": 0.11786, "cost_sol": 0.15, "pnl_sol": -0.03214, "reason": "dur\u00e9e max"}
 {"ts": "2026-10-28 14:27:19", "side": "SELL", "token": "GTA6", "mint": "4kjruqGHDsSqkMdFfCjV7Vb62HPFhtXyWc2t6JpQzDnz", "out_sol": 0.158108, "cost_sol": 0.15, "pnl_sol": 0.008108, "reason": "dur\u00e9e max"}
 {"ts": "2026-10-28 14:27:19", "side": "BUY", "token": "Grokbot", "mint": "6NaM98xdfCkTTjqTvjq4t8TdSQ2374VGkGEXCzCPpump", "in_sol": 0.15, "tokens": 25666.750159}
+{"ts": "2026-10-28 19:46:18", "side": "SELL", "token": "Grokbot", "mint": "6NaM98xdfCkTTjqTvjq4t8TdSQ2374VGkGEXCzCPpump", "out_sol": 0.05448, "cost_sol": 0.15, "pnl_sol": -0.09552, "reason": "stop-loss"}
+{"ts": "2026-10-28 19:46:19", "side": "BUY", "token": "RETARDIO", "mint": "CSRRgTwf9o5KLgguS2M16aEAhV5PUUzfshrAAQ8opump", "in_sol": 0.15, "tokens": 4111.124399}
