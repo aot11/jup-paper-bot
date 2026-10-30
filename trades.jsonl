@@ -184,3 +184,4 @@
 {"ts": "2026-10-29 02:51:37", "side": "SELL", "token": "RETARDIO", "mint": "CSRRgTwf9o5KLgguS2M16aEAhV5PUUzfshrAAQ8opump", "out_sol": 0.114063, "cost_sol": 0.15, "pnl_sol": -0.035937, "reason": "stop-loss"}
 {"ts": "2026-10-29 02:51:38", "side": "BUY", "token": "INVERSE", "mint": "2gLhk8p2KvUFeUXur2hiF4hxjdRM1vBcbgo9Q7DMZfiw", "in_sol": 0.15, "tokens": 13652.814836}
 {"ts": "2026-10-29 09:00:12", "side": "SELL", "token": "INVERSE", "mint": "2gLhk8p2KvUFeUXur2hiF4hxjdRM1vBcbgo9Q7DMZfiw", "out_sol": 0.173688, "cost_sol": 0.15, "pnl_sol": 0.023688, "reason": "dur\u00e9e max"}
+{"ts": "2026-10-30 18:45:17", "side": "BUY", "token": "HI", "mint": "3w2TvVmTrtq4kSkoFVrTFQgz6MX7ThzDVrx9r5c3pump", "in_sol": 0.15, "tokens": 13863.907149}
