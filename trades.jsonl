@@ -191,3 +191,5 @@
 {"ts": "2026-10-31 13:51:08", "side": "BUY", "token": "iCoin", "mint": "HgxEGTZ1Epb64RrYqcuHkqb1gGWWnF5WcPTCDWzApump", "in_sol": 0.15, "tokens": 28425.232571}
 {"ts": "2026-10-31 17:59:09", "side": "SELL", "token": "iCoin", "mint": "HgxEGTZ1Epb64RrYqcuHkqb1gGWWnF5WcPTCDWzApump", "out_sol": 0.059922, "cost_sol": 0.15, "pnl_sol": -0.090078, "reason": "stop-loss"}
 {"ts": "2026-10-31 17:59:10", "side": "BUY", "token": "GTA6", "mint": "4kjruqGHDsSqkMdFfCjV7Vb62HPFhtXyWc2t6JpQzDnz", "in_sol": 0.15, "tokens": 2064.944202576}
+{"ts": "2026-11-01 00:13:13", "side": "SELL", "token": "GTA6", "mint": "4kjruqGHDsSqkMdFfCjV7Vb62HPFhtXyWc2t6JpQzDnz", "out_sol": 0.216365, "cost_sol": 0.15, "pnl_sol": 0.066365, "reason": "take-profit"}
+{"ts": "2026-11-01 00:13:13", "side": "BUY", "token": "KIM", "mint": "8pjfN5Ayb4rucGpYE3tZWN6v3EysizjPx1v62zx1pump", "in_sol": 0.15, "tokens": 28048.037599}
