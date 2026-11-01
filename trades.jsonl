@@ -196,3 +196,5 @@
 {"ts": "2026-11-01 06:10:38", "side": "SELL", "token": "KIM", "mint": "8pjfN5Ayb4rucGpYE3tZWN6v3EysizjPx1v62zx1pump", "out_sol": 0.084782, "cost_sol": 0.15, "pnl_sol": -0.065218, "reason": "stop-loss"}
 {"ts": "2026-11-01 13:21:55", "side": "BUY", "token": "NIO", "mint": "7SL2VnfYsChvog5oQY9Nmtqu1wceaMiQzWoqoLQpump", "in_sol": 0.15, "tokens": 20408.444015}
 {"ts": "2026-11-01 18:27:46", "side": "BUY", "token": "Anakin", "mint": "ExxzYBTt3jwU5MUxuw2F4toYbTLdFwThSjyaCn6Xpump", "in_sol": 0.15, "tokens": 6498.822384}
+{"ts": "2026-11-01 22:15:44", "side": "SELL", "token": "NIO", "mint": "7SL2VnfYsChvog5oQY9Nmtqu1wceaMiQzWoqoLQpump", "out_sol": 0.151497, "cost_sol": 0.15, "pnl_sol": 0.001497, "reason": "dur\u00e9e max"}
+{"ts": "2026-11-01 22:15:44", "side": "SELL", "token": "Anakin", "mint": "ExxzYBTt3jwU5MUxuw2F4toYbTLdFwThSjyaCn6Xpump", "out_sol": 0.218254, "cost_sol": 0.15, "pnl_sol": 0.068254, "reason": "take-profit"}
