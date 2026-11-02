@@ -201,3 +201,5 @@
 {"ts": "2026-11-02 01:34:08", "side": "BUY", "token": "PEAK", "mint": "APLPiTjBWzwfZ5U1TBeqLF9XJ7dV7XKGe7j4BZhkDray", "in_sol": 0.15, "tokens": 11945.63111}
 {"ts": "2026-11-02 08:13:22", "side": "SELL", "token": "PEAK", "mint": "APLPiTjBWzwfZ5U1TBeqLF9XJ7dV7XKGe7j4BZhkDray", "out_sol": 0.106918, "cost_sol": 0.15, "pnl_sol": -0.043082, "reason": "stop-loss"}
 {"ts": "2026-11-02 08:13:22", "side": "BUY", "token": "PEACE", "mint": "BngAfLZxaWN2QvpFhRbUHydYGr8zA7YTSA178G8Epump", "in_sol": 0.15, "tokens": 33534.809229}
+{"ts": "2026-11-02 18:25:19", "side": "SELL", "token": "PEACE", "mint": "BngAfLZxaWN2QvpFhRbUHydYGr8zA7YTSA178G8Epump", "out_sol": 0.05667, "cost_sol": 0.15, "pnl_sol": -0.09333, "reason": "stop-loss"}
+{"ts": "2026-11-02 18:25:20", "side": "BUY", "token": "MAMESUKE", "mint": "SCGBBnSwnekytGFHgyeHHxPMiN7xDxsWFGg9JgFSTNK", "in_sol": 0.15, "tokens": 10851.656883}
