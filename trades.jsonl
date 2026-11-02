@@ -198,3 +198,4 @@
 {"ts": "2026-11-01 18:27:46", "side": "BUY", "token": "Anakin", "mint": "ExxzYBTt3jwU5MUxuw2F4toYbTLdFwThSjyaCn6Xpump", "in_sol": 0.15, "tokens": 6498.822384}
 {"ts": "2026-11-01 22:15:44", "side": "SELL", "token": "NIO", "mint": "7SL2VnfYsChvog5oQY9Nmtqu1wceaMiQzWoqoLQpump", "out_sol": 0.151497, "cost_sol": 0.15, "pnl_sol": 0.001497, "reason": "dur\u00e9e max"}
 {"ts": "2026-11-01 22:15:44", "side": "SELL", "token": "Anakin", "mint": "ExxzYBTt3jwU5MUxuw2F4toYbTLdFwThSjyaCn6Xpump", "out_sol": 0.218254, "cost_sol": 0.15, "pnl_sol": 0.068254, "reason": "take-profit"}
+{"ts": "2026-11-02 01:34:08", "side": "BUY", "token": "PEAK", "mint": "APLPiTjBWzwfZ5U1TBeqLF9XJ7dV7XKGe7j4BZhkDray", "in_sol": 0.15, "tokens": 11945.63111}
