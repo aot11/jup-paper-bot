@@ -207,3 +207,5 @@
 {"ts": "2026-11-03 01:08:44", "side": "BUY", "token": "CAPY", "mint": "DBPTU2oKLDHXQjAEJ3rZi8bUGmt2uxUbipgg6xmXoMqr", "in_sol": 0.15, "tokens": 20253.575048}
 {"ts": "2026-11-03 07:53:16", "side": "SELL", "token": "CAPY", "mint": "DBPTU2oKLDHXQjAEJ3rZi8bUGmt2uxUbipgg6xmXoMqr", "out_sol": 0.136201, "cost_sol": 0.15, "pnl_sol": -0.013799, "reason": "dur\u00e9e max"}
 {"ts": "2026-11-03 07:53:16", "side": "BUY", "token": "CAPY", "mint": "5DnWmSL9t3YqK5MeYq8ozJpna46VcdePWzHvyN8avg2g", "in_sol": 0.15, "tokens": 35075.94177}
+{"ts": "2026-11-03 15:38:32", "side": "SELL", "token": "CAPY", "mint": "5DnWmSL9t3YqK5MeYq8ozJpna46VcdePWzHvyN8avg2g", "out_sol": 0.073512, "cost_sol": 0.15, "pnl_sol": -0.076488, "reason": "stop-loss"}
+{"ts": "2026-11-03 15:38:32", "side": "BUY", "token": "MAMESUKE", "mint": "SCGBBnSwnekytGFHgyeHHxPMiN7xDxsWFGg9JgFSTNK", "in_sol": 0.15, "tokens": 5599.368509}
