@@ -219,3 +219,5 @@
 {"ts": "2026-11-04 21:36:15", "side": "BUY", "token": "Impeach", "mint": "F2xQeTCTqnczXxXQaBWAfDpUnpxn4wQHRPSqvUYJpump", "in_sol": 0.15, "tokens": 31002.267394}
 {"ts": "2026-11-05 08:33:55", "side": "SELL", "token": "Impeach", "mint": "F2xQeTCTqnczXxXQaBWAfDpUnpxn4wQHRPSqvUYJpump", "out_sol": 0.17214, "cost_sol": 0.15, "pnl_sol": 0.02214, "reason": "trailing (pic +35 %)"}
 {"ts": "2026-11-05 08:33:55", "side": "BUY", "token": "AMD", "mint": "DDmGnuvroxVrb7CSyjYcezFU8gnAfhKasg4ZZezmpump", "in_sol": 0.15, "tokens": 15704.967389}
+{"ts": "2026-11-05 16:46:15", "side": "SELL", "token": "AMD", "mint": "DDmGnuvroxVrb7CSyjYcezFU8gnAfhKasg4ZZezmpump", "out_sol": 0.095908, "cost_sol": 0.15, "pnl_sol": -0.054092, "reason": "stop-loss"}
+{"ts": "2026-11-05 16:46:15", "side": "BUY", "token": "LEEROY", "mint": "98HEU4TvXB3xjB1t15fgxHwYDLUH4fDomvp2DCzJpump", "in_sol": 0.15, "tokens": 34264.732388}
