@@ -226,3 +226,4 @@
 {"ts": "2026-11-06 09:53:50", "side": "SELL", "token": "HIGH", "mint": "7ymF66Z6VhgNiwadtVhjTtT6U7iQRpSxeiRrhfufhigh", "out_sol": 0.088331, "cost_sol": 0.15, "pnl_sol": -0.061669, "reason": "stop-loss"}
 {"ts": "2026-11-06 09:53:50", "side": "BUY", "token": "coin", "mint": "GdY4Z6pYUcr3HFrABV5FEZay3J4GnjN1Uzsw6Dvxpump", "in_sol": 0.15, "tokens": 40919.141772}
 {"ts": "2026-11-06 17:04:04", "side": "SELL", "token": "coin", "mint": "GdY4Z6pYUcr3HFrABV5FEZay3J4GnjN1Uzsw6Dvxpump", "out_sol": 0.10082, "cost_sol": 0.15, "pnl_sol": -0.04918, "reason": "stop-loss"}
+{"ts": "2026-11-07 01:48:07", "side": "BUY", "token": "Diamond", "mint": "5VCEFq1aATjga39QtDunYjJqYBx67w8V8TXwHrqopump", "in_sol": 0.15, "tokens": 26148.804597}
